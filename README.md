@@ -1,10 +1,11 @@
+#NeoLipi
 NeoLipi — Multi-Script Ancient Inscription Recognition & Translation System
 
 NeoLipi is an end-to-end computer vision and deep learning system built to analyze, segment, classify, recognize, and translate ancient stone inscriptions across three prominent historical scripts: Brahmi, Tamil, and Devanagari (Sanskrit).
 
 Featuring an interactive Streamlit Web UI, NeoLipi supports both automatic OCR processing pipelines and interactive manual bounding-box annotation tools.
 
-🌟 Key Features
+Key Features
 
 Automatic Script Classification: EfficientNet-based classifier automatically detects whether an uploaded image contains Brahmi, Tamil, or Devanagari inscriptions, with confidence scoring and rejection thresholds for non-inscription images.
 
